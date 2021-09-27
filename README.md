@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **j45#7171 on Discord or email me at j45minetest@gmail.com**
 
-- ⚡ Fun fact **Trees are green**
+- ⚡ Fun fact **I am human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
