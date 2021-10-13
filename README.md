@@ -5,8 +5,7 @@
 
 - 🔭 I’m currently working on **Too many things**
 
-- 🤝 I’m looking for help with [Audio for my soundboard in Go](https://github.com/Minetest-j45/go_soundboard)
-
+<!--- - 🤝 I’m looking for help with [Audio for my soundboard in Go](https://github.com/Minetest-j45/go_soundboard)--->
 - 👨‍💻 All of my projects are available at [https://j1233.minetest.land/ (WIP)](https://j1233.minetest.land/ (WIP))
 
 - 💬 Ask me for help **with making a mod for minetest (https://minetest.net/))**
