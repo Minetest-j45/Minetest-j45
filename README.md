@@ -3,16 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minetest-j45" alt="minetest-j45" /></a> </p>
 
-- 🔭 I’m currently working on **Too many things**
-
-<!--- - 🤝 I’m looking for help with [Audio for my soundboard in Go](https://github.com/Minetest-j45/go_soundboard)--->
-- 👨‍💻 All of my projects are available at [https://j1233.minetest.land/ (WIP)](https://j1233.minetest.land/ (WIP))
-
-- 💬 Ask me for help **with making a mod for minetest (https://minetest.net/))**
-
 - 📫 How to reach me **j45#7171 on Discord or email me at j45minetest@gmail.com**
-
-- ⚡ Fun fact **I am human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
