@@ -1,0 +1,16 @@
+name: Update RSS feed
+
+on:
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 8 * * *
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://j1233.minetest.land/feed.rss
+          readme-section: feed
