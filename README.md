@@ -25,6 +25,11 @@
 
 <h2> My blog: <\h2>
 <!--START_SECTION:feed-->
+* [Feeds!](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;#Feeds!)
+* [Minetest game jam](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;#Minetest_game_jam)
+* [Forest Ranger released!](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;#Forest_Ranger_released!)
+* [Game Jam!](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;#Game_Jam!)
+* [Renewed Tab](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;#Renewed_Tab)
 <!--END_SECTION:feed-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minetest-j45&show_icons=true&locale=en&layout=compact" alt="minetest-j45" /></p>
