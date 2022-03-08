@@ -2,8 +2,8 @@ name: Update RSS feed
 
 on:
   schedule:
-    # Once a day at 8 AM
-    - cron: 0 0 */3 * *
+    # Once a week at 00:00
+    - cron: 0 0 */7 * *
   workflow_dispatch:
 
 jobs:
