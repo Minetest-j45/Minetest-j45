@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://j1233.minetest.land/feed.rss
+          feed-url: https://j1233.minetest.land/blog/feed.rss
           readme-section: feed
