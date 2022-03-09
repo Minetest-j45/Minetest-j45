@@ -14,7 +14,7 @@
 
 <h2 align="center"> My achievements:</h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minetest-j45&row=1&theme=discord" alt="minetest-j45" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minetest-j45&row=1&column=7&theme=discord" alt="minetest-j45" /></a> </p>
 
 <h2 align="center"> Contact me:</h2>
 <p align="center">
