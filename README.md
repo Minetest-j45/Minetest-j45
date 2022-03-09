@@ -12,12 +12,12 @@
 
 - ⚡ Fun fact **I am human**
 
-<h2 align="center"> My achievments:</h2>
+<h2 align="center"> My achievements:</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minetest-j45" alt="minetest-j45" /></a> </p>
 
 <h2 align="center"> Contact me:</h2>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/j4547497813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="j4547497813" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/pQ8HaE78Mt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/pQ8HaE78Mt" height="30" width="40" /></a>
 </p>
