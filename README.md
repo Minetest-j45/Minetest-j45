@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm j45</h1>
 <h3 align="center">I'm a 15 year old coder from England</h3>
 
-<h2> My achievments:</h2>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minetest-j45" alt="minetest-j45" /></a> </p>
-
 - 🔭 I’m currently working on **Too many things**
 
 <!--- - 🤝 I’m looking for help with [Audio for my soundboard in Go](https://github.com/Minetest-j45/go_soundboard)--->
@@ -15,6 +11,10 @@
 - 📫 How to reach me **j45#7171 on Discord or email me at j45minetest@gmail.com**
 
 - ⚡ Fun fact **I am human**
+
+<h2> My achievments:</h2>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minetest-j45" alt="minetest-j45" /></a> </p>
 
 <h3 align="left"> Contact me:</h3>
 <p align="left">
