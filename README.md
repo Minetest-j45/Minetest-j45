@@ -37,8 +37,8 @@
 
 <h2 align="center"> My stats:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minetest-j45&show_icons=true&locale=en&layout=compact" alt="minetest-j45" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minetest-j45&show_icons=true&locale=en&layout=compact" alt="minetest-j45" width="350" height="165" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minetest-j45&show_icons=true&locale=en" alt="minetest-j45" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minetest-j45&show_icons=true&locale=en" alt="minetest-j45" width="350" height="165" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=minetest-j45&" alt="minetest-j45" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=minetest-j45&" alt="minetest-j45" width="350" height="165" /></p>
