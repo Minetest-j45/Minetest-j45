@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm j45</h1>
 <h2 align="center">I'm a 15 year old coder from England</h2>
 
-- 🔭 I’m currently working on **Too many things**
+- 🔭 I’m currently working on **a secret(dont tell anyone), should be released roughly around summer**
 
 <!--- - 🤝 I’m looking for help with [Audio for my soundboard in Go](https://github.com/Minetest-j45/go_soundboard)--->
-- 👨‍💻 All of my projects are available at [https://j1233.minetest.land/ (WIP)](https://j1233.minetest.land/ (WIP))
+- 👨‍💻 All of my projects are available at [https://j1233.minetest.land/ (WIP)](My website)
 
-- 💬 Ask me for help **with making a mod for minetest (https://minetest.net/))**
+- 💬 Ask me for help **with making a mod for [https://minetest.net/](Minetest) as i have plenty of experience with the Minetest API**
 
 - 📫 How to reach me **j45#7171 on Discord or email me at j45minetest@gmail.com**
 
