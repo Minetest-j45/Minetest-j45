@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **a secret(dont tell anyone), should be released roughly around summer**
 
 <!--- - 🤝 I’m looking for help with [Audio for my soundboard in Go](https://github.com/Minetest-j45/go_soundboard)--->
-- 👨‍💻 All of my projects are available at [My website](https://j1233.minetest.land/)
+- 👨‍💻 All of my projects are available at [my website](https://j1233.minetest.land/)
 
 - 💬 Ask me for help **with making a mod for [Minetest](https://minetest.net/) as i have plenty of experience with the Minetest API**
 
