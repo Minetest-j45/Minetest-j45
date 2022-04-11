@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm j45</h1>
-<h2 align="center">I'm a 15 year old coder from England</h2>
+<h2 align="center">I'm a 16 year old coder from England</h2>
 
 - 🔭 I’m currently working on **a secret(dont tell anyone), should be released roughly around summer**
 
