@@ -6,7 +6,7 @@
 <!--- - 🤝 I’m looking for help with [Audio for my soundboard in Go](https://github.com/Minetest-j45/go_soundboard)--->
 - 👨‍💻 All of my projects are available at [my website](https://j1233.minetest.land/)
 
-- 💬 Ask me for help **with making a mod for [Minetest](https://minetest.net/) as i have plenty of experience with the Minetest API**
+- 💬 Ask me for help **with making a [Minetest](https://minetest.net/) mod as I have plenty of experience with the Minetest API**
 
 - 📫 How to reach me **j45#7171 on Discord or email me at j45minetest@gmail.com**
 
