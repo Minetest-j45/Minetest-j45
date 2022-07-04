@@ -20,6 +20,7 @@
 <p align="center">
 <a href="https://twitter.com/j4547497813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="j4547497813" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/pQ8HaE78Mt" target="blank"><img align="center" src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" alt="https://discord.com/invite/pQ8HaE78Mt" height="30" width="40" /></a>
+  <a href="mailto:j45minetest@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/doodle/344/apple-mail.png" alt="j45minetest@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h2 align="center"> Languages and Tools:</h2>
