@@ -14,3 +14,4 @@ jobs:
         with:
           feed-url: https://j1233.minetest.land/blog/feed.rss
           readme-section: feed
+          empty-commits: false
