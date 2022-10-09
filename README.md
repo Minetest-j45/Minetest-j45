@@ -25,11 +25,11 @@
 <h2 align="center"> My blog:</h2>
 
 <!--START_SECTION:feed-->
+* [College](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;#College)
 * [Holidays](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;#Holidays)
 * [Feeds!](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;#Feeds!)
 * [Minetest game jam](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;#Minetest_game_jam)
 * [Forest Ranger released!](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;#Forest_Ranger_released!)
-* [Game Jam!](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;#Game_Jam!)
 <!--END_SECTION:feed-->
 
 <h2 align="center"> My stats:</h2>
