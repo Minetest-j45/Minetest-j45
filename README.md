@@ -8,12 +8,9 @@
 
 - 💬 Ask me for help **with making a [Minetest](https://minetest.net/) mod as I have plenty of experience with the Minetest API**
 
-- 📫 How to reach me: **I'm j45#7171 on Discord**
-
-<h2 align="center"> Contact me:</h2>
+<h2 align="center"> 📫 Contact me:</h2>
 <p align="center">
-<a href="https://discord.gg/https://discord.com/invite/pQ8HaE78Mt" target="blank"><img align="center" src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" alt="https://discord.com/invite/pQ8HaE78Mt" height="30" width="40" /></a>
-  <a href="mailto:j45minetest@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/doodle/344/apple-mail.png" alt="j45minetest@gmail.com" height="30" width="40" /></a>
+Discord: j45#7171 | Email: j45minetest@gmail.com
 </p>
 
 <h2 align="center"> My achievements:</h2>
