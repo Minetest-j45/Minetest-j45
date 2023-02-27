@@ -9,6 +9,7 @@
 
 <h2 align="center"> My blog:</h2>
 
+<div align="center">
 <!--START_SECTION:feed-->
 * [College](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;#College)
 * [Holidays](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;#Holidays)
@@ -16,6 +17,7 @@
 * [Minetest game jam](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;#Minetest_game_jam)
 * [Forest Ranger released!](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;#Forest_Ranger_released!)
 <!--END_SECTION:feed-->
+</div>
 
 <h2 align="center"> 📫 Contact me:</h2>
 <p align="center">
