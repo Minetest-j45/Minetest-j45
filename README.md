@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm j45</h1>
 <h2 align="center">I'm a 16 year old coder from England</h2>
 
-<h2 align="center"> 📫 Contact me:</h2>
-<p align="center">
-Discord: j45#7171 | Email: j45minetest@gmail.com
-</p>
-
 <h2 align="center"> My achievements:</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minetest-j45&row=1&column=7&theme=discord" alt="minetest-j45" /></a> </p>
 
@@ -26,3 +21,8 @@ Discord: j45#7171 | Email: j45minetest@gmail.com
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minetest-j45&show_icons=true&locale=en&layout=compact" alt="minetest-j45" height="195" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=minetest-j45&show_icons=true&locale=en" alt="minetest-j45" height="195" /></p>
+
+<h2 align="center"> 📫 Contact me:</h2>
+<p align="center">
+Discord: j45#7171 | Email: j45minetest@gmail.com
+</p>
