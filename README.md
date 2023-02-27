@@ -22,6 +22,8 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=minetest-j45&show_icons=true&locale=en" alt="minetest-j45" height="195" /></p>
 
+<br>
+
 <h2 align="center"> 📫 Contact me:</h2>
 <p align="center">
 Discord: j45#7171 | Email: j45minetest@gmail.com
