@@ -30,10 +30,7 @@
 * [Forest Ranger released!](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;#Forest_Ranger_released!)
 <!--END_SECTION:feed-->
 
-<h2 align="center"> 📫 Contact:</h2>
-<p align="center">
-Discord: j45#7171 | Email: j45minetest@gmail.com
-</p>
+<h2 align="center"> <a href="https://j1233.minetest.land/contact/">📫 Contact:</a></h2>
 
 <h2 align="center"> My stats:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minetest-j45&show_icons=true&locale=en&layout=compact" alt="minetest-j45" height="195" /></p>
