@@ -22,7 +22,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=minetest-j45&show_icons=true&locale=en" alt="minetest-j45" height="195" /></p>
 
-<br>
+<br><br>
 
 <h2 align="center"> 📫 Contact me:</h2>
 <p align="center">
