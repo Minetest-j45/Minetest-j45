@@ -32,7 +32,7 @@
 <!--END_SECTION:feed-->
 
 <h2 align="center"> 📫 Contact: </h2>
-<h3 align="center"> <a href="https://j1233.minetest.land/contact/"> Contact information </a> </h3>
+<h3 align="center"> <a href="https://www.j45.dev/contact/"> Contact information </a> </h3>
 
 <h2 align="center"> My stats:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minetest-j45&show_icons=true&locale=en&layout=compact" alt="minetest-j45" height="195" /></p>
