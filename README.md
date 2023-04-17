@@ -24,11 +24,11 @@
 <h2 align="center"> Blog:</h2>
 
 <!--START_SECTION:feed-->
-* [JavaScript No More](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;post_javascript_no_more.html)
-* [DNS over TLS](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;post_dns_over_tls.html)
-* [Update](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;post_update.html)
-* [Feeds!](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;post_feeds!.html)
-* [Blog Working](https:&#x2F;&#x2F;j1233.minetest.land&#x2F;blog&#x2F;post_blog_working.html)
+* [JavaScript No More](https:&#x2F;&#x2F;www.j45.dev&#x2F;blog&#x2F;post_javascript_no_more.html)
+* [DNS over TLS](https:&#x2F;&#x2F;www.j45.dev&#x2F;blog&#x2F;post_dns_over_tls.html)
+* [Update](https:&#x2F;&#x2F;www.j45.dev&#x2F;blog&#x2F;post_update.html)
+* [Feeds!](https:&#x2F;&#x2F;www.j45.dev&#x2F;blog&#x2F;post_feeds!.html)
+* [Blog Working](https:&#x2F;&#x2F;www.j45.dev&#x2F;blog&#x2F;post_blog_working.html)
 <!--END_SECTION:feed-->
 
 <h2 align="center"> 📫 Contact: </h2>
