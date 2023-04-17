@@ -12,6 +12,6 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://j1233.minetest.land/blog/feed.rss
+          feed-url: https://www.j45.dev/blog/feed.rss
           readme-section: feed
           empty-commits: false
