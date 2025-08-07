@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm j45</h1>
-<h2 align="center">I'm a 18 year old coder from England</h2>
 
 <h2 align="center"> Achievements:</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minetest-j45&row=1&column=7&theme=discord" alt="minetest-j45" /></a> </p>
