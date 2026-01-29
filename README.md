@@ -23,15 +23,15 @@
 <h2 align="center"> Blog:</h2>
 
 <!--START_SECTION:feed-->
-* [JavaScript No More](https:&#x2F;&#x2F;j45.dev&#x2F;blog&#x2F;post_javascript_no_more.html)
-* [DNS over TLS](https:&#x2F;&#x2F;j45.dev&#x2F;blog&#x2F;post_dns_over_tls.html)
-* [Update](https:&#x2F;&#x2F;j45.dev&#x2F;blog&#x2F;post_update.html)
-* [Feeds!](https:&#x2F;&#x2F;j45.dev&#x2F;blog&#x2F;post_feeds!.html)
-* [Blog Working](https:&#x2F;&#x2F;j45.dev&#x2F;blog&#x2F;post_blog_working.html)
+* [JavaScript No More](https:&#x2F;&#x2F;minetest-j45.github.io&#x2F;blog&#x2F;post_javascript_no_more.html)
+* [DNS over TLS](https:&#x2F;&#x2F;minetest-j45.github.io&#x2F;blog&#x2F;post_dns_over_tls.html)
+* [Update](https:&#x2F;&#x2F;minetest-j45.github.io&#x2F;blog&#x2F;post_update.html)
+* [Feeds!](https:&#x2F;&#x2F;minetest-j45.github.io&#x2F;blog&#x2F;post_feeds!.html)
+* [Blog Working](https:&#x2F;&#x2F;minetest-j45.github.io&#x2F;blog&#x2F;post_blog_working.html)
 <!--END_SECTION:feed-->
 
 <h2 align="center"> 📫 Contact: </h2>
-<h3 align="center"> <a href="https://j45.dev/contact/"> Contact information </a> </h3>
+<h3 align="center"> <a href="https://minetest-j45.github.io/contact/"> Contact information </a> </h3>
 
 <h2 align="center"> My stats:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minetest-j45&show_icons=true&locale=en&layout=compact" alt="minetest-j45" height="195" /></p>
